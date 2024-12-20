@@ -1,0 +1,14 @@
+{
+  "name": "KonoChan Randomizer",
+  "description": "Browse KonoChan for images",
+  "authors": [
+    {
+      "name": "btmc727",
+      "id": "554071670143451176"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ChannelListMagnifyingGlassIcon"
+  }
+}
