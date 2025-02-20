@@ -1,2 +1,2 @@
 # KonoChan-Randomizer
-picks a random picuter from konochan (is might not work is not tesetd yet)
+picks a random picture from konochan (is might not work is not tesetd yet)
